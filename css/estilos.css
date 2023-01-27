@@ -1,0 +1,22 @@
+h1{
+font-weight:bold;
+text-align:center;
+font-family:Monaco,Bistream Vera Sans Mono, Lucida Console, Terminal, monospace;
+color:#fff;
+}
+
+
+
+h2{
+font-weight:bold;
+text-align:left;
+font-family:Monaco,Bistream Vera Sans Mono, Lucida Console, Terminal, monospace;
+color:cornsilk;
+}
+
+
+p, ul{
+font-family: Verdana, Helvetica, sans-serif;
+color:#fff;
+font-size: 24px;
+}
